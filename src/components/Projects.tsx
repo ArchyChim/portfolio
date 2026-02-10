@@ -68,7 +68,7 @@ export default function Projects() {
                     </a>
 
                     {/* Project Card 3 */}
-                    <a href="https://example.com/portfolio" target="_blank" rel="noopener noreferrer" className="card text-left max-w-sm w-full block cursor-pointer hover:scale-[1.02] transition-transform">
+                    <a href="https://webportfolio-ivory-pi.vercel.app/" target="_blank" rel="noopener noreferrer" className="card text-left max-w-sm w-full block cursor-pointer hover:scale-[1.02] transition-transform">
                         <Image
                             src="/projects/portfolio.webp"
                             alt="Developer Portfolio screenshot"
