@@ -82,7 +82,7 @@ export default function Projects() {
                         />
                         <h3 className="text-lg sm:text-xl font-semibold mb-2">Developer Portfolio</h3>
                         <p className="text-muted text-sm sm:text-base" style={{ marginBottom: '0.5rem' }}>
-                            Personal portfolio built with Next.js and Tailwind CSS, focused on clean UI and, reponsive design and reusable components.
+                            Personal portfolio built with Next.js and Tailwind CSS, focused on clean UI, reponsive design and reusable components.
                         </p>
                         <div className="flex gap-2 flex-wrap">
                             <span className="badge">NextJS</span>
